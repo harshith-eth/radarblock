@@ -1,0 +1,892 @@
+
+adoniscyril
+Jan 2024
+GM Radiant Community!
+
+My name is Adonis, the CEO and founder of Radarblock. We’re submitting this proposal with high faith in our ability to deliver upon the needs of Radiant’s Twitter and PR alike. We’ve curated this with a lot of love and hope that it’s in the best interest of Radiant’s team as well as their community.
+
+This proposal is broken down into two replies due to its exhaustive nature. This is a very detailed breakdown of the strategy which is ready to deploy. We hope this gives the community insights into how Radarblock envisions this engagement with Radiant Capital moving forward.
+
+Chapter 1: Agency Background - About Radarblock
+1.1 Abstract
+In response to Call for Proposals: Marketing Agencies for Twitter Management and PR Strategy by Radiant Capital dated 15th December 2023, this proposal aims to appoint Radarblock as the marketing agency which handles Radiant Capital’s (“Radiant”) Twitter Account and PR strategy.
+
+1.2 Rationale
+Motivated by Radiant’s initiative to outsource Twitter and PR strategy to enhance community involvement and transparent decision-making, Radarblock is aligned with the “community-first” culture of Radiant.
+
+Understanding that perception management and Twitter marketing play a pivotal role in boosting product awareness, Radarblock believes in leveraging its seasoned team to further Radiant’s Omnichain DeFi 3.0 mission. This collaboration is seen as a valuable opportunity to work with a team whose values align seamlessly with ours. With nimble capacity-building and a significant presence in the Arbitrum ecosystem, Radarblock aims to provide Radiant with broad market exposure, as evidenced in ths proposal through relevant case studies.
+
+1.3 Key Terms
+Radarblock: Radarblock is a Web3 native growth agency that grows the awareness, TVL, Volume, and social metrics for its clients over a consistent time frame without uncertainty and confusion.
+
+Short-Term Incentive Program: Arbitrum’s Short-Term Incentive Program in which $ARB holders voted for projects building on Arbitrum.
+
+GoodEntry: One of Radarblock’s mentioned case-study. The product is a no-liquidation perp platform/ premium-less options protocol.
+
+Satori Finance: One of Radarblock’s mentioned case studies. The product is a unified order book perp platform.
+
+API3: One of Radarblock’s mentioned case-study. The products are first-party oracles whose data sources can always be established.
+
+Hyperscaling: Term used by Radarblock to foster a mindset of accelerating progress in marketing. It refers to their attempts of pulling the future into the present by increasing the rate of progress.
+
+Hockey stick growth: Rapid growth in user base or revenue.
+
+Sticky community: A community of returning speculators and users that engage with the protocol for reasons apart from monetary incentives.
+
+Internal due diligence repository: Repository maintained by the Radarblock team to keep track of the client’s competitors in terms of sentiment, marketing, and product developments.
+
+Onboarding: Process following contract-signing that details how ideation starts, followed by the beginning of execution.
+
+Narratives: Popular ideas floating around in Web3 power-users and whales upon which protocols can piggyback to bolster their marketing.
+
+Target KPIs: Key performance indicators that guide towards success operationally. These are tracked weekly to ensure progress.
+
+Success Assessment: Assesment of achievement of expected outcomes as detailed at the beginning of the expected engagement.
+
+KOLs: Key opinion leaders who nurture trends and opinions of the wider Web3 community.
+
+Marketing/PR Plan: Internal collation of ideas, suggested narratives, and suggested course of action by the Radarblock team for clients.
+
+Marketing/PR Brief: A finalised document developed from the marketing/PR plan and discussions with the Radiant team which gives direction to the execution.
+
+KOL and partner brief: A miniature document extracted from the marketing brief that tells KOLs and client’s partners how to create content around the client.
+
+Content themes: Topics given by the senior team at Radarblock upon which the content writer generates content for the clients.
+
+Multi-level review: A review process which includes Radarblock’s internal DRI and the senior team reviewing the material before it is used externally.
+
+TypeFully: A third-party application that allows for smoother scheduling of content and creation of threads.
+
+Weekly check/syncs: Weekly meetings held with the client’s DRI where Radarblock’s growth analysts explain the activities executed, outcomes generated, insights from outcomes generated, and insights from competitor tracking.
+
+Co-marketing sprints/Partnership Activities: A collection of whitelisted activities Radarblock has outlined that have been used popularly by protocols to engage with their partners with well-furnished results.
+
+War Room: A popularly used term by protocols for a communication group where key people get together to discuss the next course of action and prevent any miscommunication.
+
+Sentiment reassurance: The process of reassuring the client’s audience and community by providing adequate information as whitelisted by the members of the War Room.
+
+CT: Crypto Twitter
+
+A&M: Approach and Methodology
+
+DRIs: Directly Responsible Individual
+
+PR Triggers: Events that would cause the Radarblock growth analyst to identify a need for PR and reach out to the client’s DRI.
+
+CTAs: Call-to-action
+
+SEO: Search Engine Optimisation
+
+Target media outlets/partners: Media outlets/partners from which Radarblock will aim to have the PR released.
+
+AMAs: Ask-me-Anything sessions which are a popular way used by protocols to engage with their community.
+
+Spaces: Twitter spaces
+
+Peso Evaluation Model: The communications model represents a modern way for companies to integrate communications efforts while reaching audiences in an efficient, effective manner.
+
+Left-curve: A colloquial term used to describe content and activities that are hallmarks of crypto’s unabashed creativity.
+
+Galxe: Popular quest platform
+
+OKX: Popular crypto power-house with verticals encompassing a majority of Web3.
+
+Linea: Popular L2 solution from Consensys
+
+Arbitrum: Popular L2 solution from Offchain Labs
+
+TGE: Token Generation Event
+
+Fair Launch: A token launch that has no VC or private sale attached.
+
+FDV: Fully Diluted Valuation
+
+1.4 Proposal Specifications
+1.4.1 About Radarblock
+Radarblock, a Web3 native growth agency, has successfully worked for and collaborated with over 25+ clients, helping them bolster their marketing in every direction. Our confidence stems from navigating the complexities of Web3 marketing and identifying a crucial need for objective marketing outlines in the Web3 space. We simply make marketing easy for any protocol willing to work towards product market fit.
+
+Having worked with prominent players such as Short-Term Incentive Proposal (STIP) grant recipient GoodEntry and various chain teams, Radarblock is eager to bring its expertise as a PR and Marketing partner to the Radiant community. Our edge lies in our ability to tailor our plans according to changing market landscapes. In line with our accumulated experience, we decided to formulate the following as our core competencies:
+
+Brand-building
+
+Sourcing external media support
+
+Top-of-the-funnel community acquisition strategies
+
+Working with a variety of clients, from Satori Finance to API3, has allowed us to craft bespoke methodologies for delivering upon the above-listed competencies. Today, we are excited to present a plan that accelerates Radiant’s marketing in a similar fashion.
+
+Chapter 2: Radarblock’s Strategy for Radiant’s Twitter Account Management
+Sitting at the crux of Radarblock’s value proposition is a deep understanding of processes. While Web3 marketing is an enigma in its current form and it’s difficult to generate repeatable results, Radarblock’s exhaustive efforts have made it possible to distil the outcomes down to robust processes. Our pipelines outperform in high-paced environments due to our diligently crafted workstreams, curated activities, and lean functioning. Together, they ensure hockey stick growth for fast-moving teams like Radiant.
+
+2.1 Radarblock’s Proposed Approach and Methodology for Radiant’s Twitter Account Management
+We, at Radarblock, believe consistency is crucial and imperative for long-term Twitter growth. Our processes ensure consistency, visibility, and traction for Radiant’s Twitter while building a sticky community. Addressing the ‘Starfleet’ is important for community-first protocols like Radiant. Our approach and methodology incentivize these ideals, divided into the following phases:
+
+Phase (1A): Current State Analysis - Social Audit and Competitor Research (Week 1)
+Radarblock’s team will conduct a detailed and exhaustive analysis of Radiant’s communication channels, such as Twitter, Discord, Medium, and the Radiant website. The goal is to understand existing dependencies, tonality, frequencies and content type. This data is collated into an internal due diligence repository and is updated at regular time intervals which are decided post-onboarding. A snapshot of existing metrics is taken as a reference for monitoring progress.
+
+Key Activities of Phase (1A):
+The key activities in this phase are:
+
+Frequency assessment.
+
+Tonality analysis.
+
+Content quality assessment.
+
+Identification of current narratives.
+
+Outcomes of Phase (1A):
+The outcome here is Radarblock will present a current state analysis report detailing the state of social media engagements post-onboarding to Radiant’s management.
+
+Phase (1B): Marketing Alignment Exercise (Week 1)
+Post completion of Phase (1A) in the first half of Week 1, we shall begin Phase (1B) of the project. In this phase, Radarblock will ideate on key messaging that effectively showcases the unique propositions of Radiant and their relevance to the market, capturing the attention of potential users.
+
+Key Activities of Phase (1B):
+The key activities in this phase are:
+
+Narrative research
+
+Identification of Radiant’s unique propositions.
+
+Discussions with the Radiant team.
+
+Outcomes of Phase (1B):
+The outcome of this phase will be:
+
+List of existing and suggested compelling narratives.
+
+List of key messages that effectively showcase the propositions of Radiant.
+
+Phase (2A): Marketing Brief (Week 2):
+Radarblock will formulate a marketing brief to capture publicly available objective information and tie it in with the vision of the core team. The brief would also help Radarblock and Radiant align on the establishment of expected outcomes and target KPIs which would aid in Success Assessment (discussed in more detail in Chapter 4.1.2)
+
+Key Activities of Phase (2A):
+The key activities in this phase are:
+
+Formulation of the Master Marketing Plan based on discussions in Phase (1B)
+
+The second iteration of the brief will be formulated on the basis of extensive discussions and deliberations focused on KOLs and Partners.
+
+Outcomes of Phase (2A):
+The outcomes of Phase (2A) will be:
+
+Master Marketing Plan for Radiant’s Twitter Account Management.
+
+KOL and Partner Brief for External Communications.
+
+Expectation Alignment based on established Target KPIs.
+
+Phase (2B): Content Ideation (Week 2)
+This phase continues in conjunction with Phase (2A), here, the content team will create a monthly theme calendar for tweets, threads, and graphics which undergoes several layers of checks by the Radarblock’s Team and the Radiant DRIs.
+
+Key Activities of Phase (2B):
+The key activities in this phase are:
+
+Ideation and formulation of content themes based on marketing briefs and identified narratives.
+
+Multi-level review and vetting of content themes.
+
+Outcomes of Phase (2B):
+The outcome of this phase is that Radarblock team will populate the content calendar with shortlisted themes which will enable the content writer to work in a streamlined workflow.
+
+Phase (3): Execution Phase (Starts from Week 3)
+The research, ideation, and strategy hitherto gathered will be channelled into execution as Phase (3) begins. The following workstreams are interdependent and parallel. They’re mutually exclusive but are synergistic and collectively exhaustive.
+
+Workstream (A): Content Delivery
+Radarblock will focus on content delivery, publishing content, monitoring KPIs, and the implementation of a Reply-Guy strategy – engaging with whitelisted protocols and trending content.
+
+The content process involves team brainstorming to shortlist themes and organising them into a 30-day calendar. Approved content is scheduled using tools like TypeFully.
+
+Key Activities of Workstream (A):
+The key activities are:
+
+Daily scheduling of content.
+
+Pacing of Tweets to maximise engagement.
+
+Daily replies from Radiant’s Twitter handle.
+
+Daily monitoring of KPI trajectory by the Radarblock team.
+
+Outcomes of Workstream (A):
+The outcomes are execution, publishing and monitoring of content by Radarblock’s team.
+
+Workstream (B): Weekly Check
+Radarblock will have weekly syncs with the Radiant team to extract valuable product and team updates that can be incorporated into the content calendar. Moreover, there will be a consistent assessment of target KPIs based on expected outcomes. Acknowledging the need for flexibility, we’re prepared to apply agile methodology for real-time adjustments to seize new growth opportunities.
+
+Key Activities of Workstream (B):
+Syncing with the Radiant team and getting exposure to upcoming developments.
+
+Monitoring of target KPIs based on Radarblock’s team.
+
+Continuation of existing plans or iterations in the same as directed by KPI monitoring.
+
+Outcomes of Workstream (B):
+The outcomes of Workstream (B) include weekly reporting with agreed-upon KPIs and data-based realignment on any iterations made to the plan.
+
+Workstream (C): Daily Research
+Our research team will track competitors and major players daily, documenting and analyzing their activities to create internal logs for research and decision-making purposes.
+
+Key Activities of Workstream (C):
+Tracking competitors
+
+Researching any recent competitor developments.
+
+Outcomes of Workstream (C):
+The outcomes will be competitor insights and ecosystem research which will be utilised in strategy development.
+
+Workstream (D): KOL Alignment
+Our team will scout relevant KOLs and craft compelling narratives that resonate with the users’ beliefs as KOLs are important for user acquisition and engagement. A detailed KOL content calendar will also be implemented to maximise impact, coupled with cross-engagement trackers.
+
+Key Activities of Workstream (D):
+Scouting of KOLs that are suitable for Radiant’s brand voice.
+
+Crafting narratives and storytelling guidelines that aid in publishing agreed-upon KOL content development.
+
+Proofreading, managing, and scheduling KOL content for a cohesive narrative.
+
+Creation of the KOL content calendar and promotion of cross-engagement.
+
+Outcomes of Workstream (D):
+The outcomes include a list of shortlisted KOLs, communication establishment with agreed-upon KOLs, negotiation around the cost of collaboration, and regular deployment of reviewed KOL threads.
+
+Workstream (E): Partnerships Activities
+Our team will also help foster Radiant’s relations with its partners by actively organising Twitter spaces and Discord calls in response to certain market conditions and creating threads on how relevant partners can contribute to Radiant’s growth.
+
+Key Activities of Workstream (E):
+Scouting opportunities with partners and organising on time.
+
+Aligning on co-marketing sprints with partners.
+
+Outcomes of Workstream (E):
+The outcomes will be improved co-marketing efforts, partner relationship growth, increments in community visibility, and synergistic growth opportunities.
+
+Workstream (F): Creatives and Novelty [Monthly]
+This workstream includes how Radarblock’s novel approach can benefit Radiant and thrive against its competitors. Radarblock’s team engages in monthly brainstorming sessions with the Radiant team to explore novel ideas for their Twitter strategy. Some samples of what we can bring to the table are shared in Chapter 2.2.4 below.
+
+Key Activities of Workstream (F):
+Strategic brainstorming sessions focused on novelty.
+Outcomes of Workstream (F):
+The outcome of this workstream is to position Radiant as a thought leader in terms of creativity and degen zeal. It resonates with the culture of Web3 and showcases the team’s spirit for consistent innovation irrespective of domain.
+
+Workstream (G): Crisis Management
+In crisis management, a dedicated Radarblock team ensures round-the-clock coverage with calm and assertive warnings for critical issues. A war room will be established in case of major crises to prevent mixed communications. Resolved issues will be followed by detailed statements and investigation reports.
+
+Key Activities of Workstream (F):
+Ensuring round-the-clock coverage.
+
+Setting up war rooms.
+
+Detailed investigations report post-crisis.
+
+Crowd control and real-time updates.
+
+Outcomes of Workstream (F):
+Outcomes will be streamlined communication that is thoroughly checked in several tiers ensuring there is no panic due to any miscommunication. Sentiment reassurance will help reignite the community’s trust in the project.
+
+Phase (4): Feedback (Monthly - Throughout the Project Cycle)
+To improve feedback collection and decision-making, a comprehensive feedback framework with multiple layers of checks and evaluations will be implemented. This approach will help identify and address potential issues or areas for improvement, leading to a more refined and successful outcome. The exact cadence and layers of checks are finalised post-onboarding but ideally include escalation channels for the Radiant team.
+
+Key Activities of Phase (4):
+Monthly feedback call with the Radiant team.
+
+Analysis of gathered feedback.
+
+Implementing feedback from activities hitherto executed.
+
+Outcomes of Phase (4):
+The outcomes of this phase include active iterations and pivots in the existing strategy and better alignment with the team followed by improved execution.
+
+2.2 Radarblock’s Unique Proposition for Radiant’s Twitter:
+Radarblock’s unique proposition for Radiant illustrates the insights it brings to the well-known strategic advantages of Radiant. ​​It empowers Radarblock with an edge in execution and volatile market conditions while simultaneously providing the Radiant team with an insight into Radarblock’s thought processes.
+
+2.2.1 Suggested Key Messaging that Fosters Growth:
+Radarblock will work closely with Radiant to create messages that emphasise key values and selling points, tailored to resonate with the existing Radiant community as well as new potential users. Strategic communication of core brand messages is essential for resonating with the audience, standing out from competitors, and making a lasting impression. In line with taking a proactive approach, suggested key messaging can be found below:
+
+Radiant will unify billions of fragmented liquidity
+Radiant has secured a notable first-mover advantage in Omnichain lending, being the pioneering cross-chain lending protocol in DeFi. It facilitates effortless asset deposit and borrowing across chains. Radiant aims to expand its presence on every EVM chain, streamlining transactions for lending, borrowing, bridging, and swapping between chains.
+
+DeFi 3.0 empowers users that add value to the protocol
+Through their dLP model, Radiant addresses mercenary liquidity and mitigates issues seen in DeFi 1.0 with valueless governance tokens. They’ve established a sustainable approach, curbing unnecessary emissions and rewarding users for adding real value to the protocol. Any decline in TVL, due to the absence of mercenary farmers, leads to higher APR for committed members. This is supported by extended lock periods and significant retention of ARB tokens from Radiant’s campaign, with two-thirds of claimants holding the token.
+
+Radiant is safety-driven
+Lending markets in DeFi are notorious for being susceptible to exploit risk, as evidenced by the composition of the rekt leaderboard. To counter such risks, Radiant has made extensive investments in audits from notable agencies such as Open Zeppelin and has implemented an ImmuneFi bug bounty program. Radiant’s choice of viewing decisions from the lens of security has been clear in the implementation of their Chaos Labs dashboard, which helps detect any abrupt protocol interaction.
+
+Radiant has excellent user metrics
+While a majority of protocols rely on unsustainable incentive mechanisms to acquire and retain users, Radiant shines as the juggernaut of sustainable growth. Radarblock is confident about Radiant’s continued success and believes such events should be regularly highlighted via social channels as milestones.
+
+Radiant is consistently the preferred money market on Arbitrum.
+It has managed to garner the highest TVL on Arbitrum after AAVE. Given the popular participation in Arbitrum’s STIP program, Radiant has managed to hold attention in a highly competitive ecosystem.
+
+$RDNT holders have been increasing over time
+Holders of $RDNT have been increasing over time, showcasing a steady rise in interest around the project. It reflects a direct interest from investors in the project, which reflects positively for Radiant in the coming bull market.
+
+Radiant has outperformed its competitors in revenue generated
+It has accrued more than $3.8M in revenue over the last 180 days with a competitive price-to-fee ratio. Despite the crippling bear market, Radiant not only launched but also delivered upon economic fundamentals.
+
+Highlight Radiant users’ behaviour
+To celebrate their users, Radiant can utilise data from Dune dashboard and Chaos Labs dashboard to announce general trends on social channels. Additionally, Radarblock will actively cover community participation in various events held on Discord in close collaboration with Radiant’s Discord team.
+
+2.2.2 Supplementary Messaging for Radiant
+Radiant embraces Longtermism, prioritising the sustainable future of the system. The protocol iterates strategically, evident in the transformation from Radiant V1 to V2.
+
+It catalyses user acquisition on new chains, fostering DeFi ecosystem growth through chain-based incentives.
+
+The team exhibits nimbleness by swiftly listing $ARB as collateral within a month of its launch.
+
+Radiant’s commitment to security is reflected in the implementation of a timelock, addressing potential contingencies in contract upgradability.
+
+2.2.3 Leveraging Market Commentary for Messaging:
+Market Commentary is a potent emotional engagement tool, reaching a broad audience for greater impact. While pre-planned key messages form the foundation of our content strategy, Radarblock’s team captures real-time CT information related to Radiant and Web3 in general. The information is then linked with the established key or supplementary messaging to craft unique yet cohesive content for Radiant’s Twitter.
+
+Insightful analysis and thought-provoking perspectives in market commentary enhance engagement and expand the platform’s influence and reach. It will allow Radiant to put forth a perspective or insight which only they could’ve brought to the table owing to their messaging. Crucial for capturing external narratives resonating with our views, it fosters a continuous loop between potential users and Radiant.
+
+2.2.4 Taking the Novel Marketing Approach:
+We believe that consistent innovation is one key factor that distinguishes Radarblock from others. In the spirit of the true degeneracy and “ze culture”, we’ve created a few content pieces to highlight that besides the disciplined approach followed in this proposal, Radarblock remains degen at heart. The videos below are a testament to the same.
+
+Video 1: Viral Trend Chipi Chipi That Can be Used by KOLs
+
+Video 2: RDNT-STIP Promotional Viral Video
+
+Chapter 3: Radarblock’s Strategy for Radiant’s PR
+3.1 Radarblock’s Approach and Methodology to PR:
+The following section highlights an approach and methodology for Radiant to align the Radiant community with PR goals, provide insights into execution, and ensure transparency in results. The subsequent sections detail the deployment of PR releases, emphasising thorough research and goal-setting by the Radarblock team.
+
+The proposed A&M for PR spans across a month and will be repeated in the subsequent months throughout Radarblock’s engagement with Radiant.
+
+Phase (1A): Identify Goals (Week 1)
+In Phase 1A, Radarblock will identify the goals of a PR campaign from a myriad of options which enables strategy formulation, expectation setting and collection of any existing data metrics from previous PR engagements. Identification of goals in the PR strategy is the north star for Radiant’s journey towards enhanced brand recognition, market expansion, and sustained success.
+
+The goals of the PR campaign can be any of the following:
+
+Impact on Brand Perception:
+
+Increase Reach: Expanding the reach of Radiant is essential for tapping into new demographics and increasing its visibility.
+
+Increase Engagement: PR helps reinforce Radiant’s messaging that bolsters community sentiments.
+
+Elevation of Brand Value: Enhancing the perceived value of Radiant in the eyes of $RDNT holders is critical for long-term success.
+
+Increase Awareness: Boosting general awareness about Radiant ensures that your target audience recognises and associates positively with your brand.
+
+Building Credibility for New Product/Feature Launch:
+
+In the competitive landscape of product launches, credibility is built around strategic communication, narrative prowess, and anticipation generation for optimising market impact.
+Expansion into New Market:
+
+Expansion to New Geographics: New geographical market expansion with a tailored approach.
+
+Entry in New Linguistic Spheres: Crafting messages in the native language could be a powerful tool for connection.
+
+Promoting Protocol-Specific Education:
+
+Educating Existing Audience: The education of the audience for increment in product usage or awareness around use cases.
+Key Activities for Phase (1A):
+The key activities of this phase are:
+
+Set up a meeting with Radiant DRIs to discuss campaign details.
+
+Identification of Radiant Goals for PR Strategy.
+
+Prioritisation of narratives to be pushed out through PR channels.
+
+Expectation Setting for Outcomes of PR.
+
+Data collection for strategy and campaign timeline.
+
+Outcomes of Phase (1A):
+The outcome of this phase aligns with Radiant and Radarblock’s expectations and deliverables based on the PR campaign. This allows the Radarblock team to deliver a written PR brief with the target goals of the campaign which will be utilised for strategy formulation in the upcoming phases.
+
+PART TWO BEGINS
+Phase (1B): Research and Analysis (Week 1)
+In this phase, comprehensive research is carried out building upon the goals set in Phase (1A) for crafting a strategy aligned with broader protocol objectives. The research is another prerequisite for crafting the timeline and PR strategy.
+
+Key Activities for Phase (1B):
+The key activities of this phase are:
+
+A thorough 3-step research alignment exercise for due diligence and audits into the current:
+
+Ecosystem Landscape: Conduct a comprehensive landscape analysis of the current market happenings and previous PR efforts of Radiant, leveraging both quantitative and qualitative methods to gain insights into the market’s pulse.
+
+Competitive Landscape: Identifying opportunities for Radiant to differentiate itself and gain a competitive edge.
+
+Community Sentiment and Preferences: Engage with the Radiant’s community to tailor our communication strategies that resonate with the audience.
+
+Outlining media outlet partners based on identified goals.
+
+Outcomes of Phase (1B):
+The outcome of this exercise is the formulation of a comprehensive research sheet and the set up of a dashboard which is based on analysis of parameters relevant to strategy formulation. The comprehensive analysis carried out serves as market research and identifies trends across platforms, which will help Radiant highlight its edge over relevant peers.
+
+Phase (2): PR Strategy Development (Week 2)
+In this phase, Radarblock will set up target KPIs, expected budgeting, triggers for agreed-upon goals and develop an extensive PR plan with a shortlisting of potential media partners.
+
+The following KPIs are considered in the development of the PR plan:
+
+Brand Share of Voice (SOV): Increasing Radiant’s visibility within the industry.
+
+Brand Awareness and Recognition: Shaping brand image for enhanced recognition.
+
+Media Impressions: Expanding Radiant’s potential reach.
+
+Website Traffic: Driving traffic to Radiant’s website.
+
+Social Media Growth: Increasing organic Twitter growth.
+
+Sentiment Analysis: Analyzing the community’s sentiment
+
+Crisis Mitigation: Proactively managing crises as they come for Radiant.
+
+Media Outreach: Building strong relationships with media outlets & KOLs.
+
+New Market Penetration: Expanding presence in new geographic and linguistic terrains.
+
+Key Message Penetration: Effectively communicating key propositions of Radiant.
+
+Returning Members: Encouraging engagement and loyalty within the existing Radiant community.
+
+SEO: Increasing SERP ranking.
+
+Media Mentions: Getting online mentions in other PRs and Tweets.
+
+These are expanded upon in Chapter 4.2.2 with target KPIs and success assessment for achieving PR goals.
+
+Key Activities of Phase (2):
+The key activities of this phase are:
+
+Setting up target KPIs based on the goal setup by the Radiant’s DRIs.
+
+Formulation and implementation of PR plan.
+
+Formulation of Media Outreach plan by selecting PR outlets based on target audience, geographic location, linguistic specifications, etcetera.
+
+The conceptualisation of PR based on various events such as crisis management, product or milestone updates, drop in SOV, combating misinformation, etcetera.
+
+Timeline for the pacing of activities.
+
+Budgeting and success evaluation metrics.
+
+Outcomes of Phase (2):
+By the completion of Phase (1A), (1B), and (2), the outcome here is reaching a consensus and further setting up target KPIs, formulation and implementation of the developed plans, timeline, clearance and approvals of the budget through a commercial proposal based on the expected outcomes.
+
+Phase (3): Execution (Week 3-4)
+This phase outlines the actionable steps based on agreed-upon deliverables and goals like media outreach or press releases. It also expands upon the distribution of the PR to relevant stakeholders and partners.
+
+Key Activities for Phase (3):
+The key activities of this phase are:
+
+Content Creation:
+
+Content will be based on the goals and strategy set up alongside Radiant. In parallel, necessary steps will be taken to align with the established PR plan (covered in Phase 2).
+
+Creation of various media formats such as articles, infographics, and videos that align with the branding and messaging of Radiant with clear CTAs, and necessary SEO optimisations.
+
+Aligning all social media channels like Twitter, Discord and Medium concerning the forthcoming PR release.
+
+Media Outreach or Press Release:
+
+Communication establishment with target media outlets & KOLs decided upon in Phase (2).
+
+Publishing of the curated content with target partners.
+
+Development of a clear framework to distribute press releases based on the PR plan.
+
+Personalised AMAs and community calls from Radiant’s social media handle to directly engage with community members after the big media outreach and to address queries, share insights, and gather feedback.
+
+Radarblock’s team works with the in-house SEO team to enhance online visibility.
+
+Outcomes of Phase (3):
+The outcomes here are content pieces made in alignment with the PR strategy. Followed by a comprehensive distribution framework sheet that covers all selected outlets in Phase (2), publishing of the content curated, and optimizations in visibility post publishing.
+
+Phase (4): Reporting and Resolution (Week 5)
+At the end of the month/PR Plan, Radarblock will compile two comprehensive reports on the PR campaign’s performance, including key insights and achievements in terms of discussed Radarblock KPIs in Phase (2), one for the community/DAO & other for the internal team. The reporting and resolution process done at the end of the month is meant to enhance future campaigns and overall strategy.
+
+Key Activities in Phase (4):
+The key activities of this phase are:
+
+Comprehensive reporting based on target KPIs:
+
+Report based on extensive analytics of PR with SOV and other metrics.
+
+Presenting two reports to Radiant, one for the community/DAO & other for the internal teams.
+
+Reports will include action plans for any:
+
+Crisis Mitigation
+
+Key message penetration
+
+Returning Members
+
+Continuous Optimisation (Ongoing) in PR by:
+
+Creating a feedback loop with the Radiant community by establishing a communication channel for improving PR strategy.
+
+Gathering insights from the feedback loop and adjusting the PR strategy accordingly by aligning the global Radarblock team such that we capitalise on opportunities around the clock.
+
+Formulate a strategy to be on top of emerging market trends and to stay updated in DeFi or the ecosystem.
+
+Find relevant alpha through our partners & ecosystem networks useful for Radiant PR strategy or implementation.
+
+Develop resolutions and strategies for future PR initiatives ideating upon the lessons learned from the current campaigns.
+
+Outcomes of Phase (4):
+The outcome of this phase is a comprehensive report compiled by Radarblock that provides a detailed evaluation of the PR campaign’s performance, highlighting key achievements and insights. Also, iteration in plans for future press releases.
+
+3.2 Radarblock’s Unique Proposition for Radiant’s PR:
+Radarblock understands that every penny must be spent through a data-backed approach and clear intent. However, the current standards in press releases struggle to tackle the same. We believe that our extensive research on PR strategies and frameworks changes that and we’d love to expand upon the same.
+
+3.2.1 Data-Backed Story Telling:
+Radarblock realises that current market peers struggle to track several target KPIs which allow success assessment. It may prevent them from assessing the need for PR altogether. On the other hand, our data dashboards allow Radiant to evaluate the landscape and competitor scenario throughout the engagement which lets Radiant deploy PR on data-backed decisions.
+
+We use metrics like SOV that monitor the competitive landscape incrementally with other supporting metrics such as sentiment analysis, website traffic, media mentions and more. These metrics are expanded upon in detail in Chapter 4.2.
+
+This analytical approach is still novel in Web3 and allows for a more comprehensive PR strategy. Radarblock would be actively measuring the performance of PR efforts across the ecosystem and consulting the Radiant team on how to leverage data to their benefit.
+
+We also resonate with the Peso Evaluation Model on the four different media types:
+
+Paid Media
+
+Earned Media
+
+Shared Media
+
+Owned Media
+
+Aligning all of these moves us towards the identified goals of engagement. The data-backed approach also builds trust and support within the community due to our transparency and logical backing.
+
+3.2.2 Network Amplification and Distribution
+Radarblock assembles an extensive distribution network consisting of evangelists, community leaders, KOLs, liquid funds, potential investors, and more from the Radiant ecosystem. The alignment of the key stakeholders serves in favour as consolidation of central themes occurs through this exercise. These themes build wide scale trust and promote key ideals of Radiant. This is the culture upon which the Radiant team has thrived hitherto, and Radarblock would like to contribute significantly to the same.
+
+3.2.3 Lean Methods and Leveraging Market Research
+Radarblock is proud of our lean agility in operations which allows overnight pivots in line with market volatility. We have facilitated complete campaigns end-to-end in less than 24 hours without compromising on quality. Our team works round the clock, monitoring market situations, and consolidates relevant market insights that can be utilised for the deployment of any press release. We have done the same several times in our previous engagements and observed massive traction as discussed in the Good Entry Case Study expanded in Chapter 6.2. We also deploy consistent feedback loops that help us iterate our strategy and pivot to high-performing sectors and amplify growth where it is required. This allows for the concentration of efforts where they yield maximum results.
+
+Chapter 4: Performance Metrics
+Effective evaluation of strategies and campaigns relies on robust performance metrics, serving as vital tools in deciphering the resonance of our content with the audience.
+
+These metrics empower us to make data-driven decisions, optimising efforts for meaningful results. Here’s how Radarblock plans to leverage performance metrics for the benefit of Radiant in the context of PR and Twitter:
+
+4.1 Twitter Performance Metrics
+Monitoring Twitter performance metrics is crucial for evaluating the impact of our content strategy and making informed decisions to optimize our Twitter presence and attract more users.
+
+4.1.1 Target KPIs and Success Assessment for Twitter:
+Radarblock will conduct a detailed analysis of target KPIs on an ongoing basis during their engagement with Radiant. It helps Radarblock analysts calibrate their efforts and assurance rate of achieving an expected outcome. The following outcomes can be expected within 3 months of engagement:
+
+Followers Gained
+Radiant’s Twitter handle has the potential to grow by 16% or more in the best-case scenario, 10% in an average case, and 6% in a subpar case.
+
+Post-Impressions
+Radarblock plans to execute three or more viral campaigns through Radiant’s Twitter handle in the best-case scenario. In an average case, two viral campaigns are expected, while in a subpar case, only one campaign is expected. This leads to a significant increase in impressions.
+
+Engagement Rates
+Engagement increase ranging from 30% to 50% is expected. This surge in engagement showcases the growing interest and interaction of users with the content.
+
+Profile Conversion Rate
+Radarblock expects a growth of 40% to 80% in profile conversions, which indicates that viewers are becoming users.
+
+4.1.2 Breakdown of KPIs for Twitter:
+Expected outcomes and their respective target KPIs about Twitter are listed below:
+
+Followers Gained
+Analysing the number of followers gained within 30 days can provide insights into content success and campaign effectiveness. Significant growth in followers indicates increased engagement and expanded audience reach.
+
+Post-Impressions
+To increase post impressions, the target KPI for running two viral campaigns should be set. Post impressions provide insights into post consistency and content quality.
+
+Engagement Rates
+Higher engagement rates reflect genuine interest and involvement, guiding content refinement. It is a measure of user interaction with a post and indicates creativity and viewer interest.
+
+Profile Conversion Rate
+The target KPI for establishing credibility in prestigious DeFi circles is the Profile Conversion Rate, which represents the conversion of viewers into potential followers. These potential followers are likely to become active users and potential buyers of $RDNT.
+
+4.2 PR Performance Metrics
+A comprehensive evaluation of PR efforts is essential for enhancing Radiant’s visibility in the DeFi space. Radarblock employs a thorough breakdown of PR metrics to enable nuanced understanding and strategic adjustments for continued success in the Web3 landscape.
+
+4.2.1 Target KPIs & Success Assessment for PR
+Brand Share of Voice (SOV)
+Maintaining a SOV above 60%.
+
+Brand Awareness and Recognition
+If PR releases and media outreach start adding in average on-chain user growth.
+
+Media Impressions
+Achieving a potential reach of 10 million or above.
+
+Website Traffic
+If PR releases and media outreach start adding in average website growth metrics.
+
+Social Media Growth
+Positive trends in social media growth metrics.
+
+Community Sentiment
+The majority of the comments lean towards the positive side of the PR release on social media.
+
+Crisis Mitigation
+Having a pre-approved plan for every hiccup.
+
+Media Outreach
+Maintaining a high percentage (more than 80) or a top ranking among competitors.
+
+New Market Penetration
+Overall impressions gained by PR releases from targeted geographic regions reach 40% to 45%.
+
+When 40% to 45% of the overall PR releases are in a different language.
+
+Key Message Penetration
+PR releases comprehensively cover every key message.
+
+Returning Members
+Loyal community members advocating for and participating in the Radiant ecosystem.
+
+Search Engine Optimization (SEO)
+Growth in SEO metrics such as keyword rankings, SERP visibility, website authority, and backlinks count gathered from the PR releases and media outreach.
+
+Media Mentions
+Achieving online mentions twice that of top competitors.
+
+4.2.2 Trigger Response Plan:
+Any potential PR activities will be activated based on target outcomes explained in detail in the section below or the following triggers:
+
+Any potential rumours or public-facing misalignment/misinformation.
+
+SOV going below 55%, or significant negative events warranting public clarification.
+
+Any key events that benefit from PR activities.
+
+Any legal disputes that need to be addressed in public.
+
+4.2.3 Breakdown of KPIs for PR:
+Brand Share of Voice (SOV)
+Tracking Radiant’s SOV aims to increase visibility in the Web3 space. It helps assess marketing efforts, and market trends and informs strategic planning based on volume or reach.
+
+Brand Awareness and Recognition
+Enhance the overall recognition of Radiant within the target audience. It will help in shaping Radiant’s brand reputation and relationship with its followers.
+
+Media Impressions
+Expand Radiant’s potential reach through strategic media placements. It will quantify the potential audience of Radiant that is exposed to PR messaging. While this metric reflects the broad reach of a PR campaign, we can supplement it with more detailed data to gauge its effectiveness towards Radiant.
+
+Website Traffic
+Driving organic traffic to the Radiant website is crucial for increased engagement. Monitoring visitor metrics helps identify effective PR campaigns driving traffic and conversions.
+
+Social Media Growth
+Fostering organic social media growth through engaging content strengthens Radiant’s online presence, impacting brand sentiment positively.
+
+Community Sentiment
+Maintaining positive sentiment around Radiant involves analysing brand mentions to gauge audience reactions. This informs content tailoring for future posts.
+
+Crisis Mitigation
+Proactive crisis management planning is essential for swift responses to potential issues, benchmarking volume and sentiment during crises.
+
+Media Outreach
+Building strong relationships with KOLs, media outlets, and industry leaders involves tracking press releases and pitches’ performance.
+
+New Market Penetration
+Expanding Radiant’s presence geographically and linguistically involves targeting key demographics and tailoring communication for diverse language-speaking communities.
+
+Key Message Penetration
+Ensuring effective communication of key messages involves breaking coverage down by themes and assessing their association strength.
+
+Returning Members
+Encouraging engagement and loyalty among the existing community signifies success and positive community sentiment.
+
+Search Engine Optimization (SEO)
+Improving search engine visibility and ranking through media relations supports Radiant’s online presence.
+
+Media Mentions
+Measuring positive mentions across platforms provides insights into market popularity.
+
+Chapter 5: Timeline
+The timeline can be seen with its various phases here while it can be seen in a tabulated format here.
+
+Chapter 6: Citations and Case Studies
+6.1 Satori Finance
+A comprehensive overview of the client’s case study can be found here.
+
+Satori is a decentralised financial derivatives platform that features an “off-chain aggregation and on-chain settlement” design, combining the security and transparency of a decentralised exchange with the speed and usability of a centralised exchange. It caters to retail and professional traders alike, offering a user-friendly interface and advanced SDK and APIs for integrating trading tools with other systems.
+
+The client raised their $10M seed capital from notable players such as Jump Crypto, Coinbase, D1 Ventures, and many more. However, consistency and themes of Twitter content posed challenges to a lean team occupied with product updates. Perpetual DEX space is one of the most emerging markets in Web3, with strong players like GMX and Gains Network. It is usually hard for newer products to establish themselves such that they have strong user support.
+
+Radarblock was brought in to increase the client’s Twitter activity in a way that amplifies their awareness and cements them as a major upcoming Perp platform in various new ecosystems. The Radarblock team immediately got to work and figured out the best possible positioning for Satori after brainstorming with their core team. It was decided that the biggest benefit of Satori was their Unified Order Book model which could solve the fragmentation of a traders’ liquidity. Overall, unification of liquidity was a mission that rang just as true for Satori as it does for Radiant.
+
+6.1.1 Execution
+For Twitter, a descriptive content calendar was created such that it:
+
+Explained the mechanism of Satori using threads and single tweets.
+
+Appealed to the “left-curve” audience using memes related to market conditions or recent happenings in CT.
+
+Focused more on the Asian audience by rebranding the mascot, catering to the existing user base.
+
+Interacted with chains upon which Satori was deployed by engaging in their latest Twitter developments.
+
+Beyond the planned Twitter content calendar, we brought exposure to Satori on Twitter using three different avenues:
+
+We engaged in comments with CT personalities such as Andrew Kang and Awawat to garner more exposure for Satori.
+
+We were on top of market events that were relevant for Satori such as liquidations and macroeconomic legislations.
+
+We coordinated with various Web3 service providers such as Galxe and OKX to ensure smooth campaign operations and quick troubleshooting. Co-marketing was also catered to within our scope of work.
+
+We outreached, negotiated, and deployed KOL threads strategically placed around narratives that were popular at that time.
+
+For PR, we hoped to cement Satori’s image as the pioneer perp platform on Linea. We coordinated with relevant parties for Satori’s participation in the PR article and also interacted with other notable protocols that were featured in the same.
+
+6.1.2 Outcome
+Our various execution efforts paid off with Satori’s followers increasing by 582%, going from 21,311 on June 01, 2023, to at 153,000 as of January 4, 2024. Owing to our well-timed market commentaries and capitalising upon narratives as they came, the impressions rose by 733% in that same duration, garnering them 2.53M views in total. Impressions are an important metric for determining the visibility of the protocol while the engagement rate tells you how much people enjoy your tweets [Engagement/Impressions]. We were able to scale it by 394% establishing our content as engaging for the larger audience. Besides that, “profile clicks” – measuring how absorbing the content is – rose by 199%, signalling that our content was making the audience click more on our profile.
+
+6.2 Good Entry
+A comprehensive overview of the client’s case study can be found here.
+
+GoodEntry is a protected perpetual protocol that allows retail users to trade without getting liquidated by price. Starting in February of 2023, they quickly rose to fame because of their sticky community and their break-fast-repair-fast approach. They ended up becoming one of the grantees of the Arbitrum STIP program which was a moment of prestige for any young protocol.
+
+At the beginning of this year, Radarblock was approached to be the in-house CMO and the marketing arm of GoodEntry. The team wanted to bootstrap their marketing from scratch such that they could foster community support. While GoodEntry eventually had a first-mover advantage in the space with a working alpha product, Radarblock started working with them while they were still developing it. Similar to Radiant, GoodEntry’s story is one of persistence and triumph within the Arbitrum ecosystem. Working with the GoodEntry team also allowed us to have the opportunity to interact with multiple other Arbitrum protocols, which refined our understanding of the Arbitrum ecosystem as a whole.
+
+6.2.1 Execution
+GoodEntry’s 0-to-1 journey has allowed us to transition from perp-specific content, pass through product-led marketing, and arrive at TGE-specific content. The journey was filled with multiple iterations which were supported by the core team and allowed us to foster a community while working alongside the Discord team.
+
+Besides a well-documented Twitter content plan, we executed the following strategies that helped cement the importance of GoodEntry across CT:
+
+First-in-space market commentaries: We deeply understood the importance of market commentaries and were often the first ones to tweet about how the liquidated users could’ve used GoodEntry to guard against scam wicks.
+
+KOL management: We worked alongside the lead KOL for GE to help proofread and monitor the traction of KOL threads. GoodEntry had a total of 20 KOLs who were aided by Radarblock’s KOL briefs for GoodEntry’s new iteration, Degen Mode.
+
+Partnership Marketing: Radarblock coordinated with the larger Arbitrum ecosystem to prepare for the GE World Tour. It was an AMA marathon that aided in the wide publicity of the incoming TGE scheduled for 27th November 2023. The World Tour concluded with a long-form summary of the discussions that were held on spaces with the partners.
+
+6.2.2 Outcome
+Radarblock managed to scale GoodEntry’s Twitter from 0 to 14,500 followers, building a cohesive community along the way. Toward the TGE, GoodEntry managed to capture decent mind-share because of appropriate quest usage, Twitter marketing, and KOL support, sending the cumulative profile clicks to 18,000. It was corroborated by a 1.7M rise in impressions, a 1,500% gain. GoodEntry’s content – due to effective leveraging of comarketing and KOL support – had begun reaching the whitespace masses consistently.
+
+Because of the memetic value of the content posted, such as an overemphasis on key themes of “$GOOD” and “One Team One Dream,” the engagement rate saw a rise of 334% as the audience became involved in copypasta practices. Rising popularity across CT brought us the attention of notable influencers, such as ChicoCrypto, who graced the occasion with coverage of GoodEntry.
+
+Development, iteration, and execution of marketing strategies, handling urgent obstacles, being involved with other partners, KOLs, and service providers led up to the grand day. Their token launch was hosted on 27th November 2023 and sold out within a minute, all while being a fair launch worth 1.5M USD (10M FDV) with equal terms for all.
+
+6.3 API3
+A comprehensive overview of the client’s case study can be found here
+
+API3 is among the top oracles in the Web3 space with 140+ data feeds on 16 blockchains. Their flagship products, dAPIs, are aggregated from first-party oracles directly on the native chain. This means that you always know where your data comes from and never have to rely on cross-chain bridges, a centralised point of failure for a dApp. The dAPI aggregation contract resides on the same chain as the consumer dApp, meaning the data is never bridged over and exposed to bridge exploits. This maximises the reliability and transparency of our feeds, resulting in safer DeFi for everyone.
+
+Radarblock was approached by the client to build an institutional narrative that converts to actual users. They were gearing up for the launch of their managed dAPIs. Oracles being the backbone of DeFi allow the whole ecosystem to function seamlessly with their price feeds. The task was to help dAPI technology gain maximum exposure while maintaining an institutional outlook.
+
+6.3.1 Execution
+Radarblock started by auditing the social presence of the client. Then, based on the developments and pre-existing Medium content, Radarblock drafted a basic press release that was to go out through mass traditional media channels.
+
+After comparing quotations for various PR channels, Radarblock optimised pricing and sent out a press release to various major media outlets such as Yahoo Finance and AP News.
+
+6.3.2 Outcome
+The final press release was covered by 74 different sources with a cumulative reach of 30 million. The outcomes can be seen in the first, second, third, and fourth images.
+
+Chapter 7: Budget and Pricing
+Radarblock’s Web3 Growth Packages are meticulously crafted to propel Radiant’s digital presence to the larger DeFi ecosystem and beyond. Our pricing structure reflects a commitment to delivering unparalleled value and strategic impact over a transformative four-month engagement.
+
+Growth Package Twitter and PR: Twitter, KOL Management, and PR Package (4 Months) - $15,000** per month/- (After 20% Discount)
+
+Hyperscale Radiant with a comprehensive package covering Twitter amplification, and tier-1 DeFi influencer collaboration through Key Opinion Leaders (KOL) management, and data-backed strategic PR.
+Twitter Account Management: Twitter and KOL Management Package (4 Months) - $12,000** per month/- (After 20% Discount)
+
+Standalone Twitter and KOL management that expands upon the aforementioned narrative research, reply guy strategies, and other growth marketing activities.
+PR Account Management: PR Package (4 Months) - $10,000** per month/- (After 20% Discount)
+
+Standalone PR research, data analysis, dashboarding, and access to all leading media outlets like Yahoo Finance, Cointelegraph, and more.
+**Note: The cost here does not include individual KOL costs or selected PR outlet costs which do not include any mark-ups from Radarblock and are paid directly to the respective relevant parties.
+
+Chapter 8: Contact Us
+In case of any query or requirement of further communication, our team would be more than happy to provide prompt assistance. Our socials are mentioned below along with relevant contact details.
+
+Interested readers can find the deck associated with the current proposal here: www.docsend.com/radarblock
+
+Preferred Source of Communication: Telegram
+
+Telegram: Contact @blingoh, or
+
+Telegram: Contact @adoniscyril
+
+Email: admin@radarblock.xyz
+
+Website www.radarblock.xyz
+
+Twitter: www.twitter.com/radarblock
+
+Substack: www.radarblock.substack.com
+
+Book a call with us: https://calendar.app.google
+
+Radarblock is a Web3 native growth agency that grows your awareness, TVL, volume, and social metrics within 4-6 months without uncertainty and confusion.
+Skip to Main Content
+RADARBLOCK
+Frens
+Services
+Process
+Blog
+You Bring the Protocol,
+We Bring the Audience
+The Web3 Native Growth Agency Growing your Favourite Projects
+
+Let's chat
+
+We Have
+No Clients...
+We only have frens!
+Transactions look best in DeFi alone,
+Let's keep this for the long-term
+Join the Fam
+Services
+When We Said Full Stack, We Meant It.
+Work Line-Up So Big It Needs a Call 👀
+
+
+
+
+
+
+Supercharge Your
+Protocol in 3 Days
+Day 1
+
+We help you clarify your requirements in a discovery call
+
+Day 2
+
+We onboard you into our fren circle, and develop a strategy
+
+Book your call
+Day 3
+
+Execute. Revisit strategy as deemed necessary by you.
+
+FREE Newsletter for Web3's smartest CMOs
+We publish blogs that help CMOs increase their protocols engagement by commenting on curated tweets.
+
+Check us on Substack!
+Job Title: Senior Growth Analyst
+Location: Remote
+Radarblock Overview: Radarblock is a Web3 native growth agency that consistently enhances the awareness, TVL, volume, and social metrics for its clients. We are dedicated to delivering growth without uncertainty and confusion.
+Position Summary: As a Senior Growth Analyst at Radarblock, you will lead a team of Growth Analysts, manage projects from inception to completion, and maintain strong client relationships. This role requires regular client interactions, ensuring that projects align with client demands and agreed-upon contracts and SOPs. You will report directly to the co-founders, providing daily updates, resolving bottlenecks, and occasionally assisting with business development activities.
+Key Responsibilities:
+Lead and manage a team of Growth Analysts.
+Oversee the end-to-end execution of growth projects.
+Conduct regular client meetings to understand demands, provide updates, and ensure alignment with agreed contracts and SOPs.
+Produce Minutes of Meetings (MoMs) to track action items and decisions.
+Develop and maintain strong relationships with clients and partners.
+Ensure the successful execution of marketing campaigns and monitor project KPIs.
+Deepen expertise in Web3, DeFi, and NFTs to enhance marketing efforts.
+Apply Web3 protocol knowledge to campaigns.
+Collaborate with Business Development (BD) and Communications Teams to define and implement marketing and growth strategies.
+Coordinate with the Communications Team to plan, execute, and manage Radarblock's marketing and growth strategy.
+Conduct market research to support BD activities and initiatives.
+Collect and evaluate analytical data related to Radarblock's growth and the performance of its marketing campaigns.
+Ensure all content aligns with current strategy and complies with branding guidelines.
+Ensure availability of appropriate resources for executing marketing and growth strategies.
+Report to co-founders daily with updates and project statuses.
+Identify and resolve bottlenecks in project execution.
+Assist co-founders with business development activities as needed.
+Requirements:
+Proven experience in marketing strategy and growth initiatives for technical products or services.
+Preference for candidates with experience in protocol-type product growth and partnerships in the Web3 space.
+Strong understanding of the target audience and market trends in the Web3 and decentralized communication industry.
+Knowledge of developer relations and business development practices.
+Familiarity with market research methodologies.
+Proficiency in collecting, analyzing, and interpreting data related to user acquisition, engagement, and retention.
+Familiarity with communication and branding guidelines.
+Strong analytical and problem-solving skills.
+Excellent written and verbal communication skills in English.
+Passion for blockchain and decentralized technologies with a strong understanding of how they work.
+Radarblock is an equal opportunity employer and encourages applicants from all backgrounds to apply.
+
