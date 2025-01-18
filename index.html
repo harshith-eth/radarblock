@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>Senior Growth Analyst</title>
     <link rel="icon" type="image/jpeg" href="harshith.jpg">
     <style>
@@ -278,15 +278,15 @@
         }
 
         .header {
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            background: var(--terminal-bg);
+            border-bottom: 2px solid var(--terminal-primary);
+            padding: 15px 25px;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 15px 25px;
-            border-bottom: 2px solid var(--terminal-primary);
-            position: sticky;
-            top: 0;
-            background: var(--terminal-bg);
-            z-index: 100;
             margin: 0;
         }
 
@@ -660,8 +660,444 @@
                 min-width: 100%;
             }
         }
+
+        /* Mobile-specific fixes */
+        @media (max-width: 768px) {
+            /* Header fixes */
+            .header {
+                position: relative;
+                flex-direction: column;
+                gap: 15px;
+                padding: 15px;
+            }
+
+            .social-links {
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 12px;
+                width: 100%;
+                max-width: 300px;
+                margin: 0 auto;
+            }
+
+            /* Main content spacing */
+            .main-content {
+                padding: 15px;
+            }
+
+            /* Carousel improvements */
+            .meme-carousel-container {
+                margin: 15px -15px;  /* Negative margin to span full width */
+                padding: 0;          /* Remove padding */
+                border-radius: 0;    /* Remove border radius on mobile */
+                width: calc(100% + 30px); /* Compensate for container padding */
+            }
+
+            .meme-slide {
+                gap: 0;  /* Remove gap between slides on mobile */
+            }
+
+            .meme-carousel .meme-gif {
+                width: 100vw;        /* Full viewport width */
+                min-width: 100vw;    /* Ensure full width */
+                border-radius: 0;    /* Remove border radius */
+                margin: 0;           /* Remove margins */
+                border: none;        /* Remove borders */
+            }
+
+            .carousel-button {
+                width: 40px;
+                height: 40px;
+                background: var(--terminal-primary);
+                border-radius: 50%;
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                z-index: 10;
+            }
+
+            .carousel-button.prev {
+                left: 10px;
+            }
+
+            .carousel-button.next {
+                right: 10px;
+            }
+
+            /* Container adjustments */
+            .main-content {
+                overflow-x: hidden;  /* Prevent horizontal scroll */
+            }
+
+            /* Ensure images fill width properly */
+            .meme-carousel img.meme-gif {
+                width: 100vw;
+                object-fit: cover;
+                display: block;
+            }
+
+            /* Video improvements */
+            .video-wrapper {
+                padding-bottom: 56.25%;
+                margin: 0;
+                width: 100%;
+            }
+
+            .video-container {
+                width: 100%;
+                margin: 0;
+            }
+
+            /* Chain grid improvements */
+            .chain-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+                padding: 0;
+            }
+
+            .chain-item {
+                padding: 15px;
+            }
+
+            /* Section improvements */
+            .section {
+                margin: 20px -15px;
+                padding: 15px;
+                border-left: none;
+                border-right: none;
+            }
+
+            /* Text size adjustments */
+            .heading {
+                font-size: clamp(20px, 6vw, 28px);
+                line-height: 1.3;
+                margin-bottom: 15px;
+            }
+
+            .sub-heading {
+                font-size: clamp(16px, 4vw, 20px);
+                margin-top: 8px;
+            }
+
+            .tagline {
+                font-size: clamp(16px, 4vw, 20px);
+                margin: 15px 0;
+                padding-left: 12px;
+            }
+
+            /* Profile section improvements */
+            .profile-pic {
+                width: 70px;
+                height: 70px;
+                margin-right: 15px;
+            }
+
+            .ens-name {
+                font-size: clamp(18px, 5vw, 22px);
+                text-align: center;
+            }
+
+            .web3-tenure {
+                font-size: 14px;
+                padding: 4px 8px;
+                margin-top: 5px;
+            }
+        }
+
+        /* Extra small devices */
+        @media (max-width: 480px) {
+            /* Even tighter spacing */
+            .main-content {
+                padding: 10px;
+            }
+
+            .section {
+                margin: 15px -10px;
+                padding: 12px;
+            }
+
+            /* Single column layouts */
+            .chain-grid {
+                grid-template-columns: 1fr;
+                gap: 8px;
+            }
+
+            /* Smaller carousel buttons */
+            .carousel-button {
+                width: 30px;
+                height: 30px;
+                font-size: 16px;
+            }
+
+            /* Adjust social links */
+            .social-links {
+                gap: 8px;
+            }
+
+            .social-link {
+                width: 35px;
+                height: 35px;
+                font-size: 16px;
+            }
+
+            /* PDF viewer height */
+            .cta embed {
+                height: 400px;
+            }
+
+            /* Tighter spacing for chain items */
+            .chain-item {
+                padding: 12px;
+            }
+
+            .chain-logo {
+                width: 40px;
+                height: 40px;
+            }
+
+            .chain-name {
+                font-size: 16px;
+            }
+
+            .chain-detail {
+                font-size: 14px;
+            }
+        }
+
+        /* Fix for notched phones */
+        @supports (padding: max(0px)) {
+            .header {
+                padding-left: max(15px, env(safe-area-inset-left));
+                padding-right: max(15px, env(safe-area-inset-right));
+            }
+
+            .main-content {
+                padding-left: max(15px, env(safe-area-inset-left));
+                padding-right: max(15px, env(safe-area-inset-right));
+                padding-bottom: max(15px, env(safe-area-inset-bottom));
+            }
+        }
+
+        /* Prevent content overflow */
+        img, video, iframe {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Improve touch targets */
+        button, 
+        .social-link,
+        .chain-item,
+        .skill-item {
+            min-height: 44px;
+            min-width: 44px;
+        }
+
+        /* Fix header spacing */
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            background: var(--terminal-bg);
+            border-bottom: 2px solid var(--terminal-primary);
+            padding: 15px 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 0;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                position: relative;
+                flex-direction: column;
+                gap: 15px;
+                padding: 15px;
+            }
+
+            .header-left {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+
+            .social-links {
+                display: grid;
+                grid-template-columns: repeat(6, 1fr);
+                gap: 8px;
+                width: 100%;
+                max-width: 300px;
+                margin: 0 auto;
+                justify-items: center;
+            }
+
+            .social-link {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 40px;
+                height: 40px;
+                margin: 0;
+            }
+
+            .social-link i {
+                font-size: 18px;
+                line-height: 1;
+            }
+        }
+
+        /* Fix GitHub icon alignment */
+        .social-link i {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+        }
+
+        .header-resume-button {
+            background: transparent;
+            color: var(--terminal-primary);
+            border: 2px solid var(--terminal-primary);
+            border-radius: 6px;
+            padding: 8px 16px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            box-shadow: 0 0 15px var(--terminal-glow);
+        }
+
+        .header-resume-button:hover {
+            background: rgba(129, 204, 157, 0.1);
+            border-color: var(--terminal-light);
+            box-shadow: 0 0 25px var(--terminal-glow);
+            transform: translateX(-50%) translateY(-2px);
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                gap: 15px;
+                padding: 15px;
+            }
+
+            .header-left {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+
+            .social-links {
+                display: grid;
+                grid-template-columns: repeat(6, 1fr);
+                gap: 8px;
+                width: 100%;
+                max-width: 300px;
+                margin: 0 auto;
+                justify-items: center;
+            }
+
+            .header-resume-button {
+                position: relative;
+                transform: none;
+                left: auto;
+                margin-top: 15px;
+                order: 3; /* This ensures it appears after social icons */
+                width: auto;
+            }
+
+            .header-resume-button:hover {
+                transform: translateY(-2px);
+            }
+
+            .profile-pic {
+                margin-right: 0;
+                margin-bottom: 10px;
+            }
+        }
+
+        /* Update PDF viewer styles */
+        .pdf-fullscreen {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 2000;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .pdf-fullscreen.active {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .pdf-fullscreen iframe {
+            width: 100%;
+            height: calc(100% - 50px);
+            border: none;
+        }
+
+        /* Mobile-specific PDF viewer improvements */
+        @media (max-width: 768px) {
+            .pdf-fullscreen {
+                padding: 10px;
+            }
+
+            .pdf-fullscreen iframe {
+                width: 100%;
+                height: 100%;
+                border: none;
+                overflow-y: scroll;
+                -webkit-overflow-scrolling: touch; /* Enables smooth scrolling on iOS */
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+            }
+
+            .pdf-close {
+                position: fixed; /* Changed from absolute to fixed */
+                top: 10px;
+                right: 10px;
+                z-index: 2001;
+                width: 44px; /* Larger touch target */
+                height: 44px;
+                background: var(--terminal-primary);
+                border-radius: 50%;
+                font-size: 24px;
+                box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            }
+        }
+
+        /* Add support for touch gestures */
+        @supports (-webkit-touch-callout: none) {
+            .pdf-fullscreen iframe {
+                -webkit-user-select: none; /* Prevents unwanted text selection */
+                -webkit-touch-callout: none;
+                -webkit-tap-highlight-color: transparent;
+            }
+        }
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="pdfViewer.js"></script>
 </head>
 <body>
     <div class="container">
@@ -675,6 +1111,9 @@
                             <span class="web3-tenure">OG since 1101 days ago</span>
                         </a>
                     </div>
+                    <button class="header-resume-button" onclick="openPDFViewer('Harshith_Vaddiparthy_Resume.pdf')">
+                        Click to View Full Resume 📄
+                    </button>
                 </div>
                 <div class="social-links">
                     <a href="https://x.com/harshith_eth" target="_blank" class="social-link" title="Twitter">
@@ -696,6 +1135,11 @@
                         <i class="fab fa-github"></i>
                     </a>
                 </div>
+            </div>
+
+            <div class="pdf-fullscreen" id="pdfViewer">
+                <button class="pdf-close" onclick="closePDF()">×</button>
+                <iframe src="Harshith_Vaddiparthy_Resume.pdf"></iframe>
             </div>
 
             <div class="main-content">
@@ -842,7 +1286,7 @@
 
                 <script>
                     document.addEventListener('DOMContentLoaded', function() {
-                        // Initialize all carousels
+                        // Initialize all carousels with touch support
                         const carousels = document.querySelectorAll('.meme-carousel-container');
                         
                         carousels.forEach(carousel => {
@@ -852,7 +1296,9 @@
                             let position = 0;
                             const items = slide.children;
                             const totalItems = items.length;
-                            const itemsToShow = window.innerWidth <= 768 ? 1 : 3;
+                            let itemsToShow = window.innerWidth <= 768 ? 1 : 3;
+                            let touchStartX = 0;
+                            let touchEndX = 0;
                             
                             function updateSlidePosition() {
                                 const itemWidth = carousel.offsetWidth / itemsToShow;
@@ -882,23 +1328,84 @@
                                 }
                             });
 
+                            // Touch events for swipe
+                            carousel.addEventListener('touchstart', (e) => {
+                                touchStartX = e.touches[0].clientX;
+                            }, { passive: true });
+
+                            carousel.addEventListener('touchend', (e) => {
+                                touchEndX = e.changedTouches[0].clientX;
+                                handleSwipe();
+                            }, { passive: true });
+
+                            function handleSwipe() {
+                                const swipeThreshold = 50;
+                                const swipeDistance = touchEndX - touchStartX;
+                                
+                                if (Math.abs(swipeDistance) > swipeThreshold) {
+                                    if (swipeDistance > 0 && position > 0) {
+                                        // Swipe right
+                                        position--;
+                                    } else if (swipeDistance < 0 && position < totalItems - itemsToShow) {
+                                        // Swipe left
+                                        position++;
+                                    }
+                                    updateSlidePosition();
+                                }
+                            }
+
                             // Handle window resize
-                            window.addEventListener('resize', () => {
+                            function handleResize() {
                                 const newItemsToShow = window.innerWidth <= 768 ? 1 : 3;
                                 if (newItemsToShow !== itemsToShow) {
                                     itemsToShow = newItemsToShow;
-                                    position = 0;
+                                    position = Math.min(position, totalItems - itemsToShow);
                                     updateSlidePosition();
                                 }
-                            });
+                            }
 
+                            window.addEventListener('resize', handleResize);
+                            
                             // Initial setup
                             updateSlidePosition();
                         });
+
+                        // Improve video handling
+                        const videos = document.querySelectorAll('video');
+                        videos.forEach(video => {
+                            // Pause all other videos when one starts playing
+                            video.addEventListener('play', () => {
+                                videos.forEach(v => {
+                                    if (v !== video) {
+                                        v.pause();
+                                    }
+                                });
+                            });
+
+                            // Handle video orientation
+                            video.addEventListener('loadedmetadata', () => {
+                                const aspectRatio = video.videoWidth / video.videoHeight;
+                                if (aspectRatio > 16/9) {
+                                    video.style.width = '100%';
+                                    video.style.height = 'auto';
+                                } else {
+                                    video.style.width = 'auto';
+                                    video.style.height = '100%';
+                                }
+                            });
+
+                            // Optimize mobile playback
+                            if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+                                video.setAttribute('playsinline', '');
+                                video.setAttribute('preload', 'metadata');
+                            }
+                        });
                     });
 
-                    // Keep the existing video toggle function
+                    // Keep the existing video toggle function with improvements
                     function toggleVideo(video) {
+                        const wasPlaying = !video.paused;
+                        
                         document.querySelectorAll('video').forEach(v => {
                             if (v !== video) {
                                 v.pause();
@@ -906,12 +1413,12 @@
                             }
                         });
 
-                        if (video.paused) {
-                            video.play();
-                            video.parentElement.classList.add('playing');
-                        } else {
+                        if (wasPlaying) {
                             video.pause();
                             video.parentElement.classList.remove('playing');
+                        } else {
+                            video.play().catch(e => console.log('Playback failed:', e));
+                            video.parentElement.classList.add('playing');
                         }
                     }
                 </script>
@@ -1141,12 +1648,6 @@
                     }
                 </style>
 
-                <div class="cta">
-                    <div class="meme-text">Want to know more about my experience?</div>
-                    <p>Check out my full resume below</p>
-                    <embed src="Harshith_Vaddiparthy_Resume.pdf" type="application/pdf" width="100%" height="600px" />
-                </div>
-
                 <div class="command-line">status: vibing_in_terminal = true;</div>
                 <div class="command-line">deploying_meme_magic.sh...</div>
             </div>
@@ -1156,5 +1657,150 @@
     <div class="chat-widget" title="Chat with RadarBot">
         
     </div>
+
+    <style>
+        .pdf-container {
+            position: relative;
+            width: 100%;
+            margin: 20px 0;
+        }
+
+        .pdf-preview {
+            width: 100%;
+            max-height: 400px;
+            object-fit: contain;
+            cursor: pointer;
+            border: 2px solid var(--terminal-primary);
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .pdf-preview:hover {
+            border-color: var(--terminal-light);
+            box-shadow: 0 0 15px var(--terminal-glow);
+        }
+
+        .pdf-fullscreen {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 2000;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .pdf-fullscreen.active {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .pdf-fullscreen iframe {
+            width: 100%;
+            height: calc(100% - 50px);
+            border: none;
+        }
+
+        .pdf-close {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: var(--terminal-primary);
+            color: var(--terminal-bg);
+            border: none;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .pdf-close:hover {
+            background: var(--terminal-light);
+            transform: scale(1.1);
+        }
+    </style>
+
+    <script>
+        function openPDF() {
+            const pdfViewer = document.getElementById('pdfViewer');
+            pdfViewer.classList.add('active');
+            document.body.style.overflow = 'hidden';
+            
+            // Mobile-specific adjustments
+            if (window.innerWidth <= 768) {
+                // Force iframe to reload on mobile to ensure proper scaling
+                const iframe = pdfViewer.querySelector('iframe');
+                const currentSrc = iframe.src;
+                iframe.src = '';
+                setTimeout(() => {
+                    iframe.src = currentSrc;
+                }, 10);
+
+                // Add touch event listeners
+                iframe.addEventListener('touchstart', handleTouchStart, { passive: true });
+                iframe.addEventListener('touchmove', handleTouchMove, { passive: true });
+            }
+        }
+
+        function closePDF() {
+            const pdfViewer = document.getElementById('pdfViewer');
+            pdfViewer.classList.remove('active');
+            document.body.style.overflow = 'auto';
+            
+            // Remove touch event listeners when closing
+            if (window.innerWidth <= 768) {
+                const iframe = pdfViewer.querySelector('iframe');
+                iframe.removeEventListener('touchstart', handleTouchStart);
+                iframe.removeEventListener('touchmove', handleTouchMove);
+            }
+        }
+
+        // Touch handling functions
+        let touchStartY = 0;
+        let touchStartX = 0;
+
+        function handleTouchStart(e) {
+            touchStartY = e.touches[0].clientY;
+            touchStartX = e.touches[0].clientX;
+        }
+
+        function handleTouchMove(e) {
+            if (!touchStartY || !touchStartX) return;
+
+            const touchEndY = e.touches[0].clientY;
+            const touchEndX = e.touches[0].clientX;
+            const deltaY = touchStartY - touchEndY;
+            const deltaX = touchStartX - touchEndX;
+
+            // Adjust scroll position based on touch movement
+            this.contentWindow.scrollBy(deltaX, deltaY);
+            
+            touchStartY = touchEndY;
+            touchStartX = touchEndX;
+        }
+
+        // Close PDF viewer when clicking outside
+        document.getElementById('pdfViewer').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closePDF();
+            }
+        });
+
+        // Close PDF viewer on escape key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && document.getElementById('pdfViewer').classList.contains('active')) {
+                closePDF();
+            }
+        });
+    </script>
 </body>
 </html> 

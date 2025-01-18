@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>Resume Viewer</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: rgba(0, 0, 0, 0.9);
+        }
+
+        #pdfContainer {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 90%;
+            height: 90%;
+            background: #fff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 0 20px rgba(129, 204, 157, 0.3);
+        }
+
+        #pdfObject {
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: block;
+        }
+
+        #closeButton {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 40px;
+            height: 40px;
+            background: #81cc9d;
+            border: none;
+            border-radius: 50%;
+            color: #000;
+            font-size: 24px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2001;
+            box-shadow: 0 0 15px rgba(129, 204, 157, 0.5);
+        }
+
+        @media (max-width: 768px) {
+            #pdfContainer {
+                width: 95%;
+                height: 80%;
+                top: 55%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="pdfContainer">
+        <button id="closeButton" onclick="window.parent.closePDFViewer()">×</button>
+        <embed 
+            id="pdfObject" 
+            type="application/pdf" 
+            src="" 
+            width="100%" 
+            height="100%"
+        >
+    </div>
+
+    <script>
+        window.addEventListener('message', function(e) {
+            if (e.data.type === 'loadPDF') {
+                const pdfObject = document.getElementById('pdfObject');
+                // Add parameters to ensure proper display on iOS
+                pdfObject.src = e.data.url + '#view=FitH';
+            }
+        });
+    </script>
+</body>
+</html> 
